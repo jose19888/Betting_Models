@@ -1,8 +1,8 @@
 ##################################################################################
 ##################################################################################
 ##
-##  Job candidate: Jose Jimenez
-##  Tipico - Ice Hockey Data Analysis
+##  Jose Jimenez
+##  Ice Hockey Data Analysis
 ##
 ##################################################################################
 ##################################################################################
@@ -13,7 +13,7 @@ library(lattice)
 R.Version()$version.string # print R version
 # Always remember to set working directory to the file containing folder
 # setwd("~path")!
-setwd("C:/Users/carpe/Betting_models")
+setwd("######Betting_models")
 
 
 
